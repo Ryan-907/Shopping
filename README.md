@@ -1,1 +1,1 @@
-# Shopping
+This is a Capstone project for my Programming Princples 1 class. Basically, it is a shopping cart. You add an item, describe it, set the price, and the quantity bought. If you make a mistake you can remove the item and put it back on the shelf! When you are satsified with your cart, you "check out" and it gives you the price. 
